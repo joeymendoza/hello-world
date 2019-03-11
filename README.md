@@ -1,2 +1,2 @@
-# hello-world
-my first program in github
+This is my attempt to learn how to use GITHUB.
+Thank you!
